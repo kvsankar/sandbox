@@ -1,4 +1,4 @@
 sandbox
 =======
 
-Sandbox repository for GitHub tests
+Sandbox repository for GitHub tests.
